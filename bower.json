@@ -4,6 +4,13 @@
   "version": "0.0.1",
   "license": "MIT",
   "private": true,
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    ".*.*",
+    "gruntfile.js",
+    "package.json"
+  ],
   "dependencies": {
     "bootstrap": "~3"
   }

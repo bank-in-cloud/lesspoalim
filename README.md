@@ -1,1 +1,1 @@
-Bootstrap Customization for Bank hapoalim
+Bootstrap Customization for Bank hapoalim with examples and snippets
